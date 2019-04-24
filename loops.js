@@ -26,3 +26,12 @@ function doWhileLoop(num){
     } while (i < 0);
 
   }
+  
+  function doWhileLoop(num){
+    var i = 10;
+    do{
+      console.log("I run once regardless.");
+      i++;
+    } while (i < 10);
+
+  }
