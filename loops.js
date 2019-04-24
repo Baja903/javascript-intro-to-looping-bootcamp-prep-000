@@ -32,6 +32,6 @@ function doWhileLoop(num){
     do{
       console.log("I run once regardless.");
       i++;
-    } while (i < 9);
+    } while (i < 11);
 
   }
