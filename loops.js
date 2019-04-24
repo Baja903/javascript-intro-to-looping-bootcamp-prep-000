@@ -31,7 +31,7 @@ function doWhileLoop(num){
     var i = 1;
     do{
       console.log("I run once regardless.");
-      i++;
-    } while (i < 10);
+      i++=1
+    } while (i < 9);
 
   }
