@@ -28,10 +28,10 @@ function doWhileLoop(num){
   }
   
   function doWhileLoop(num){
-    var i = 10;
+    var i = 1;
     do{
       console.log("I run once regardless.");
       i++;
-    } while (i < 10);
+    } while (i < 9);
 
   }
